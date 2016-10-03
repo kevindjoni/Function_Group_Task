@@ -32,3 +32,4 @@ void getJudgeData(double &score)
 		(score < 0 || score > 10);
 	return;
 }
+
